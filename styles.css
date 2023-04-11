@@ -3,6 +3,7 @@
 .valign-wrapper {
     height: 300px;
     overflow: hidden;
+    background-color: black;
 }
 
 .card-image > div {
