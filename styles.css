@@ -1,0 +1,20 @@
+/* styles.css */
+
+.valign-wrapper {
+    height: 300px;
+    overflow: hidden;
+}
+
+.card-image > div {
+    width: 100%;
+}
+
+.card-content {
+    height: 250px;
+    overflow: auto;
+}
+
+img.responsive-img {
+    width: 100%;
+    height: auto;
+}
