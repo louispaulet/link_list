@@ -9,7 +9,8 @@ $(document).ready(function() {
     'project6.html',
     'project7.html',
     'project8.html',
-    'project9.html'
+    'project9.html',
+    'project10.html'
   ];
 
   // Function to load HTML file
