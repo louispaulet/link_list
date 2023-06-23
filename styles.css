@@ -19,3 +19,19 @@ img.responsive-img {
     width: 100%;
     height: auto;
 }
+
+body {
+    background-image: url('background_motif.png');
+      background-repeat: repeat;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+h1.center-align {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    color: #333;
+}
+
+
+
