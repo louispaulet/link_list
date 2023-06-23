@@ -10,7 +10,8 @@ $(document).ready(function() {
     'project7.html',
     'project8.html',
     'project9.html',
-    'project10.html'
+    'project10.html',
+    'project11.html'
   ];
 
   // Function to load HTML file
